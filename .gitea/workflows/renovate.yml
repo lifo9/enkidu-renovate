@@ -2,8 +2,6 @@ name: renovate
 
 on:
   push:
-    branches:
-      - 'master'
   schedule:
     - cron: "@daily"
 
