@@ -9,5 +9,6 @@
   "prHourlyLimit": 0,
   "enabledManagers": [
     "github-actions"
-  ]
+  ],
+  "requiredStatusChecks": null
 }
